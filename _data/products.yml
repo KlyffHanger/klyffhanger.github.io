@@ -1,0 +1,53 @@
+- title: Klyff Platform
+  fulltitle: Klyff Platform
+  description: Klyff Documentation
+  tag: ce
+  icon: images/klyff_final_logo.svg
+  path: /docs/
+  guides: /docs/guides/
+  getStarted: /docs/getting-started-guides/helloworld/
+  docsPrefix: /docs/
+- title: Cloud
+  fulltitle: Klyff Cloud
+  description: Klyff Documentation
+  tag: paas
+  icon: /images/thingsboard-c-icon.svg
+  path: /docs/paas/
+  guides: /docs/paas/guides/
+  getStarted: /docs/paas/getting-started-guides/helloworld/
+  docsPrefix: /docs/paas/
+- title: Edge
+  fulltitle: Klyff Edge
+  description: Klyff Edge Documentation
+  tag: edge
+  icon: /images/thingsboard-e-icon.svg
+  path: /docs/edge/
+- title: IoT Gateway
+  fulltitle: Klyff IoT Gateway
+  description: Klyff Documentation
+  tag: gw
+  icon: /images/gateway-icon.svg
+  path: /docs/iot-gateway/
+  getStarted: /docs/iot-gateway/getting-started/
+- title: Trendz Analytics
+  fulltitle: Trendz Analytics
+  description: Trendz Documentation
+  tag: trendz
+  icon: /images/trendz-icon.svg
+  path: /docs/trendz/
+  getStarted: /docs/trendz/getting-started/
+- title: Mobile Application
+  fulltitle: Klyff Mobile Application
+  description: Mobile Application Documentation
+  tag: mobile
+  icon: /images/tb-mobile-icon.svg
+  path: /docs/mobile/
+  docsPrefix: /docs/mobile/
+  getStarted: /docs/mobile/getting-started/
+- title: MQTT Broker
+  fulltitle: MQTT Broker
+  description: MQTT Broker Documentation
+  tag: mqtt-broker
+  icon: /images/tbmq-icon.svg
+  path: /docs/mqtt-broker/
+  getStarted: /docs/mqtt-broker/getting-started/
