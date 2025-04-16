@@ -1,2 +1,2 @@
 # klyffhanger.github.io
-Klyff Documentation
+Klyff Documentation and API Reference
